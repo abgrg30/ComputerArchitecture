@@ -1,4 +1,4 @@
-# ComputerArchitecture
+# Computer Architecture
 CSE240A - University of California, San Diego
 
 * branch predictor - 
